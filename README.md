@@ -48,25 +48,9 @@ Las principales funcionalidades de la aplicación son:
 
 ## Diseño (Wireframes)
 
-Wireframe elaborado en Figma:
-https://www.figma.com/community/file/1594910947161950850
+El diseño de la aplicación se apoya en wireframes elaborados en Figma, los cuales representan la estructura general y el flujo de navegación de las pantallas principales: pantalla de inicio y búsqueda, listado de restaurantes y detalle del restaurante.
 
-
-### Pantalla de inicio / búsqueda
-- Selección de ubicación actual.
-- Campo de búsqueda por ubicación.
-- Filtros por tipo de comida y calificación.
-- Botón de búsqueda.
-
-### Listado de restaurantes
-- Lista con imagen del restaurante.
-- Nombre, calificación y tipo de comida.
-
-### Detalle del restaurante
-- Imagen del restaurante.
-- Información general.
-- Nivel de precios estimado.
-- Botones para llamar, WhatsApp y ver en mapa.
+Enlace a Figma: https://www.figma.com/community/file/1594910947161950850
 
 ---
 
